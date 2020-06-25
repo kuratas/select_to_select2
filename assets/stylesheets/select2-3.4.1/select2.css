@@ -64,6 +64,7 @@ Version: 3.4.1 Timestamp: Thu Jun 27 18:02:10 PDT 2013
     background-image: -ms-linear-gradient(top, #ffffff 0%, #eeeeee 50%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#eeeeee', GradientType = 0);
     background-image: linear-gradient(top, #ffffff 0%, #eeeeee 50%);
+    min-width: 100px;
 }
 
 .select2-container.select2-drop-above .select2-choice {
