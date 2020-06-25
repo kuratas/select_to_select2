@@ -67,6 +67,7 @@ Version: 3.4.5 Timestamp: Mon Nov  4 08:22:42 PST 2013
     background-image: -moz-linear-gradient(center bottom, #eee 0%, #fff 90%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#eeeeee', GradientType=0);
     background-image: linear-gradient(top, #eee 0%, #fff 90%);
+    min-width: 100px;
 }
 
 .select2-container.select2-allowclear .select2-choice .select2-chosen {
