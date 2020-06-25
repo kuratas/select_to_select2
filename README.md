@@ -1,12 +1,12 @@
 # Select To Select2 Plugin
-This is a repository of 「Select To Select2 Plugin」 which is a Redmine plugin.
+This is a repository of 「Select To Select2 Plugin」 which is a Redmine plugin.  
 This repository is forked from sf-cola/select_to_select2.
 I fixed these issue.
 
 - Issue list
-  - "Add filter" select box was too small
+  - "Add filter" select box was too small when apply A1 theme.
 - Issue list -> Option
-  - group select box was too small
+  - group select box was too small when apply A1 theme.
 
 ## Features
 
